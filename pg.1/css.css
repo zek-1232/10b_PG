@@ -1,0 +1,72 @@
+body{
+    background-color: beige;
+    margin: 0px;
+
+
+}
+h1 {
+    margin: 0px;
+    text-align: center;
+    font-family: "Playwrite HR Lijeva", cursive;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 300%;
+
+}
+
+.img1 {
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   margin-top: 10em;
+    
+}
+
+.img2 {
+    margin-top:0px;
+    float: center;
+    display: flex; 
+    justify-content: center;
+    align-items: flex-end; 
+    margin-right:7em
+
+     
+
+}
+
+.img3 {
+    margin-top:0px;
+    float: center;
+    display: flex; 
+    justify-content: center;
+    align-items: flex-end; 
+    margin-left:7em;
+transform: scaleX(-1);
+    
+    
+    
+    
+
+}
+.text {
+    text-align: center;
+    font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    text-align: justify;
+    margin: 10em;
+    font-size: 150%;
+}
+
+
+.img4{
+ float: left;
+ width:100px;
+
+}
+
+
